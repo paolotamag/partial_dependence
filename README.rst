@@ -118,7 +118,6 @@ Here you can find a first example. The visualization is automatically saved in a
 .. image:: images/full_curves.png
     :width: 1600px
     :align: center
-    :height: 900px
     :alt: alternate text
 
 1.4 Clustering 1D partial dependence
